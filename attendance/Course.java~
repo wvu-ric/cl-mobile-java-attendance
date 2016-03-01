@@ -11,13 +11,13 @@ public class Course {
     
     public Course(){
         //COMPLETE CONSTRUCTOR
-        students = new Student[2];
+        students = new Student[0];
     }
     
     public String roleCall(){
         
         //COMPLETE THIS METHOD
-        students.add
+        
         String returnString = "";
         
         
