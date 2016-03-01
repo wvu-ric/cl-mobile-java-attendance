@@ -17,7 +17,7 @@ public class Course {
     public String roleCall(){
         
         //COMPLETE THIS METHOD
-        students.add(Student);
+        students.add
         String returnString = "";
         
         

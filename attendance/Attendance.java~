@@ -16,7 +16,7 @@ public class Attendance {
         Student studentTwo = new Student(Jane, Doe, 002);
         codeLab.addStudent(studentOne);
         codeLab.addStudent(studentTwo);
-        System.out.print(codeLab.students);
+        System.out.print(codeLab.print.students);
         
         // TODO: Create at least 2 student objects
         // TODO: Add students to the codeLab Course
